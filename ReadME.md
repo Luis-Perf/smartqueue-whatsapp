@@ -38,12 +38,6 @@ Pré-requisitos:
 - Docker Desktop (com Docker Compose)
 - Git
 
-### 1. Clonar o repositório
-
-```bash
-git clone https://github.com/Luis-Perf/smartqueue-whatsapp.git
-cd smartqueue-whatsapp
-
 ## Próximos passos / Ideias de evolução
 
 Algumas melhorias que eu já deixei mapeadas para evoluir essa POC:
@@ -56,3 +50,11 @@ Algumas melhorias que eu já deixei mapeadas para evoluir essa POC:
 
 - **Criar templates de integração com gateways como Zenvia/Gupshup**  
   Modelar exemplos de payloads e fluxos para integrar com gateways de comunicação usados no mercado (Zenvia, Gupshup, etc.), aproximando ainda mais da realidade de produção.
+
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/Luis-Perf/smartqueue-whatsapp.git
+cd smartqueue-whatsapp
+
