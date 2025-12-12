@@ -30,14 +30,6 @@ Fluxo resumido:
 - Docker / Docker Compose
 - Postman / curl para testes de API
 
-## Como rodar o projeto
-
-Pré-requisitos:
-
-- Node 18+
-- Docker Desktop (com Docker Compose)
-- Git
-
 ## Próximos passos / Ideias de evolução
 
 Algumas melhorias que eu já deixei mapeadas para evoluir essa POC:
@@ -50,7 +42,15 @@ Algumas melhorias que eu já deixei mapeadas para evoluir essa POC:
 
 - **Criar templates de integração com gateways como Zenvia/Gupshup**  
   Modelar exemplos de payloads e fluxos para integrar com gateways de comunicação usados no mercado (Zenvia, Gupshup, etc.), aproximando ainda mais da realidade de produção.
+  
 
+## Como rodar o projeto
+
+Pré-requisitos:
+
+- Node 18+
+- Docker Desktop (com Docker Compose)
+- Git
 
 ### 1. Clonar o repositório
 
